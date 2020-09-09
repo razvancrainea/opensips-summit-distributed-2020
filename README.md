@@ -18,3 +18,4 @@ Demos performed during the Conference.
  * [Video](https://www.youtube.com/watch?v=uHFOB-J8GIQ&ab_channel=OpenSIPS)
  * Repository tags
    * `dtmf-conversion` tag contains the config used to convert in-band DTMFs to out-of-band SIP
+   * `dtmf-pin` tag contains the config that requires a pin within the first 10 seconds of the call
