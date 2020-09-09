@@ -11,3 +11,10 @@ Demos performed during the Conference.
  * [Video](https://youtu.be/3h7WPW3xhi8?list=PLMMZA6ketvKqwzIR4txlKEqZtcPsrldr-&t=4220)
  * Repository tags
    * `call-api` tag contains the config used to run the [Call API](https://github.com/OpenSIPS/call-api) tool
+
+## DTMF Handling in OpenSIPS 3.1
+
+ * [Presentation](https://docs.google.com/presentation/d/17OGKh6WRd_LNGNVezWKi2iPAGzNenRQdA_991bQQkQE/edit?usp=sharing)
+ * [Video](https://www.youtube.com/watch?v=uHFOB-J8GIQ&ab_channel=OpenSIPS)
+ * Repository tags
+   * `dtmf-conversion` tag contains the config used to convert in-band DTMFs to out-of-band SIP
