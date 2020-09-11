@@ -20,3 +20,10 @@ Demos performed during the Conference.
    * `dtmf-conversion` tag contains the config used to convert in-band DTMFs to out-of-band SIP
    * `dtmf-pin` tag contains the config that requires a pin within the first 10 seconds of the call
    * `dtmf-transfer` tag contains the config that transfers the call when a key is pressed
+
+## Media Exchanger in OpenSIPS 3.1
+
+ * [Presentation](https://docs.google.com/presentation/d/1Y7mFXRfHlgFVX7cTZJj0A3Nn3_g-8AhJEOf1pTIwqek/edit?usp=sharing)
+ * [Video](https://www.youtube.com/watch?v=NHzwOp2qYzQ&list=PLMMZA6ketvKqwzIR4txlKEqZtcPsrldr-&index=5&ab_channel=OpenSIPS)
+ * Repository tags
+   * `media-moh` tag contains the config used to play music on hold
